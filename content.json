@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "slug": "atlasOrc",
+    "title": "AtlasOrc",
+    "description": "Premium AI automation and development services in Sonipat.",
+    "lang": "en",
+    "version": "1.0"
+  },
+  "business": {
+    "name": "AtlasOrc",
+    "industry": "Tech service",
+    "established": "2026",
+    "phone": "+919416149624",
+    "whatsapp": null,
+    "email": null,
+    "website": "atlasorc.com",
+    "hours": "Mon-Sat 10am-7pm",
+    "address": {
+      "street": "457 sector 14",
+      "city": "Sonipat",
+      "state": "",
+      "zip": "",
+      "country": "India"
+    }
+  },
+  "theme": {
+    "primaryColor": "#cdad6d",
+    "secondaryColor": "#b8985a",
+    "accent": "#e1c481",
+    "bg": "#1a1a1a",
+    "bgCard": "#2a2a2a",
+    "text": "#ffffff",
+    "textMuted": "#cccccc",
+    "border": "#404040",
+    "fontFamily": "Playfair Display",
+    "fontBody": "Inter",
+    "tokens": {
+      "headingWeight": 300,
+      "letterSpacing": "0.08em",
+      "borderRadius": "2px",
+      "sectionSpacing": "140px",
+      "animationStyle": "fade-elegant",
+      "shadowStyle": "none",
+      "buttonStyle": "ghost-thin"
+    },
+    "referenceUrl": "https://marimba.design/",
+    "vibes": [
+      "Premium & high-end"
+    ]
+  },
+  "seo": {
+    "metaTitle": "AtlasOrc | Sonipat | AI Automation Tech Services",
+    "metaDescription": "Premium AI automation systems and development services in Sonipat. We build AI agents, chatbots, and custom software that runs your business automatically.",
+    "keywords": [
+      "AI automation",
+      "Sonipat tech services",
+      "AI chatbots",
+      "AI agents",
+      "custom software development",
+      "AI video generation",
+      "automation audit",
+      "AI voice assistants"
+    ],
+    "ogImage": "/og-image.jpg"
+  },
+  "services": [
+    {
+      "id": "ai-automation-systems",
+      "name": "AI Automation Systems",
+      "description": "I connect your tools so repetitive work runs itself while you sleep.",
+      "icon": "automation",
+      "featured": true
+    },
+    {
+      "id": "ai-agent-development",
+      "name": "AI Agent Development",
+      "description": "I build AI that actually does tasks for you, not just answers questions.",
+      "icon": "robot",
+      "featured": true
+    },
+    {
+      "id": "ai-chatbots",
+      "name": "AI Chatbots",
+      "description": "I train AI on your company's docs so it answers like your best employee.",
+      "icon": "chat",
+      "featured": true
+    },
+    {
+      "id": "ai-powered-web-apps",
+      "name": "AI-Powered Web Apps",
+      "description": "I build custom software with AI baked in from day one.",
+      "icon": "code",
+      "featured": true
+    },
+    {
+      "id": "internal-tools-dashboards",
+      "name": "Internal Tools & Dashboards",
+      "description": "I build the boring software your team needs to stop doing things manually.",
+      "icon": "dashboard",
+      "featured": false
+    },
+    {
+      "id": "ai-automation-audit",
+      "name": "AI/Automation Audit",
+      "description": "I find where your business is bleeding time and show you exactly what to automate.",
+      "icon": "search",
+      "featured": false
+    },
+    {
+      "id": "ai-voice-assistants",
+      "name": "AI Voice Assistants",
+      "description": "I build AI that picks up your calls, books appointments, and talks to customers 24/7.",
+      "icon": "microphone",
+      "featured": false
+    },
+    {
+      "id": "ai-generated-video-ads",
+      "name": "AI-Generated Video Ads",
+      "description": "I create scroll-stopping video ads without cameras, actors, or shoot days.",
+      "icon": "video",
+      "featured": false
+    },
+    {
+      "id": "ai-reels-short-form",
+      "name": "AI Reels & Short-Form Video",
+      "description": "I turn your ideas into ready-to-post reels for Instagram, TikTok, and YouTube Shorts.",
+      "icon": "film",
+      "featured": false
+    },
+    {
+      "id": "ai-ugc-videos",
+      "name": "AI UGC Videos",
+      "description": "I generate realistic creator-style videos featuring AI avatars promoting your product.",
+      "icon": "users",
+      "featured": false
+    },
+    {
+      "id": "ai-blog-seo-content",
+      "name": "AI Blog & SEO Content",
+      "description": "I generate ranking-ready articles in your brand voice, at scale.",
+      "icon": "edit",
+      "featured": false
+    },
+    {
+      "id": "ai-product-photos-graphics",
+      "name": "AI Product Photos & Graphics",
+      "description": "I create on-brand visuals for your store, ads, and social — no designer needed.",
+      "icon": "image",
+      "featured": false
+    },
+    {
+      "id": "ai-lead-generation-outreach",
+      "name": "AI-Powered Lead Generation & Outreach",
+      "description": "I build systems that find your ideal clients, send personalized messages, and follow up automatically — without you lifting a finger.",
+      "icon": "target",
+      "featured": false
+    }
+  ],
+  "team": null,
+  "testimonials": null,
+  "faqs": [
+    {
+      "id": "what-is-ai-automation",
+      "question": "What exactly is AI automation and how can it help my business?",
+      "answer": "AI automation connects your existing tools and workflows to run tasks automatically without human intervention. For example, we can set up systems that automatically respond to customer inquiries, process orders, update your CRM, and send follow-up emails — all while you focus on growing your business."
+    },
+    {
+      "id": "how-long-implementation",
+      "question": "How long does it take to implement an AI automation system?",
+      "answer": "Most AI automation projects take 2-4 weeks depending on complexity. Simple chatbot implementations can be ready in 5-7 days, while comprehensive automation systems with multiple integrations typically require 3-4 weeks. We'll give you an exact timeline after our initial consultation."
+    },
+    {
+      "id": "technical-knowledge-required",
+      "question": "Do I need technical knowledge to use these AI systems?",
+      "answer": "Not at all. We build everything with user-friendly interfaces and provide complete training. Our AI systems are designed to work seamlessly in the background. You'll get a simple dashboard to monitor performance and make basic adjustments, but no coding or technical skills are required."
+    },
+    {
+      "id": "cost-vs-benefits",
+      "question": "What kind of ROI can I expect from AI automation?",
+      "answer": "Most clients see ROI within 60-90 days. AI automation typically saves 10-20 hours per week on repetitive tasks, reduces response times from hours to minutes, and can handle customer inquiries 24/7. The exact ROI depends on your current processes, but we'll show you specific time and cost savings during our audit."
+    },
+    {
+      "id": "integration-existing-systems",
+      "question": "Can AI automation integrate with my existing software and tools?",
+      "answer": "Yes, we specialize in connecting AI systems with popular business tools like CRM software, email platforms, scheduling systems, e-commerce platforms, and accounting software. During our consultation, we'll audit your current tech stack and show you exactly how everything can work together."
+    },
+    {
+      "id": "ongoing-support",
+      "question": "What kind of ongoing support do you provide?",
+      "answer": "We provide comprehensive ongoing support including system monitoring, performance optimization, troubleshooting, and updates. You'll get direct access to our support team, monthly performance reports, and proactive recommendations for improvements based on your system's usage patterns."
+    }
+  ],
+  "gallery": null,
+  "pricing": null,
+  "certifications": null,
+  "social": {
+    "instagram": "https://www.instagram.com/atlasorc/",
+    "facebook": null,
+    "youtube": null,
+    "linkedin": "https://www.linkedin.com/company/atlasorc/",
+    "twitter": null,
+    "tiktok": null
+  },
+  "integrations": null,
+  "featureFlags": {
+    "contactForm": true,
+    "faq": true,
+    "deployed": false,
+    "chatbot": true,
+    "booking": true,
+    "appointmentReminders": true,
+    "reviewCollection": true,
+    "googleReviewsWidget": true,
+    "newsletter": true,
+    "paymentLink": true,
+    "gallery": true,
+    "testimonials": true,
+    "blog": false,
+    "team": false,
+    "googleMaps": false,
+    "loginSignup": false,
+    "pricing": false,
+    "beforeAfterGallery": false,
+    "loyalty": false,
+    "referral": false,
+    "announcementBanner": false,
+    "multipleLocations": false,
+    "videoEmbed": false,
+    "certifications": false
+  },
+  "sections": [
+    {
+      "id": "hero",
+      "enabled": true,
+      "order": 1,
+      "data": {
+        "title": "AI That Actually Works",
+        "subtitle": "We build automation systems that handle your repetitive tasks while you focus on growth. From AI chatbots to custom workflows, your business runs itself.",
+        "cta": {
+          "label": "Get Started",
+          "href": "#contact"
+        },
+        "image": "/hero-image.jpg"
+      }
+    },
+    {
+      "id": "services",
+      "enabled": true,
+      "order": 2,
+      "data": {
+        "title": "AI Solutions That Transform Your Business",
+        "subtitle": "We build intelligent systems that automate your workflows and accelerate your growth."
+      }
+    },
+    {
+      "id": "booking",
+      "enabled": true,
+      "order": 3,
+      "data": {
+        "title": "Ready to Automate Your Business?",
+        "subtitle": "Book a free consultation and discover exactly what we can automate for you.",
+        "cta": {
+          "label": "Book Consultation",
+          "href": "#booking"
+        }
+      }
+    },
+    {
+      "id": "testimonials",
+      "enabled": true,
+      "order": 4,
+      "_placeholder": true,
+      "data": {
+        "title": "What Our Clients Say",
+        "subtitle": "See how we've transformed businesses with intelligent automation.",
+        "_placeholder": true
+      }
+    },
+    {
+      "id": "faq",
+      "enabled": true,
+      "order": 5,
+      "data": {
+        "title": "Frequently Asked Questions",
+        "subtitle": "Everything you need to know about AI automation for your business."
+      }
+    },
+    {
+      "id": "gallery",
+      "enabled": true,
+      "order": 6,
+      "_placeholder": true,
+      "data": {
+        "title": "Our Work in Action",
+        "subtitle": "See the AI systems and automation solutions we've built for businesses like yours.",
+        "_placeholder": true
+      }
+    },
+    {
+      "id": "blog",
+      "enabled": false,
+      "order": 7,
+      "_placeholder": true,
+      "data": null
+    },
+    {
+      "id": "contact",
+      "enabled": true,
+      "order": 8,
+      "data": {
+        "title": "Let's Build Your AI Future",
+        "subtitle": "Ready to transform your business with intelligent automation? Get in touch today."
+      }
+    },
+    {
+      "id": "footer",
+      "enabled": true,
+      "order": 9,
+      "data": {
+        "tagline": "Premium AI automation that actually delivers results."
+      }
+    }
+  ],
+  "specialRequests": "i want animations in my website like the reference website i provided"
+}
