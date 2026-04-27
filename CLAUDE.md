@@ -129,6 +129,44 @@ Every section accepts `{ data, placeholder }` props.
 
 ---
 
+## Aesthetic standards — non-negotiable
+
+### Typography scale
+- H1: clamp(56px, 8vw, 120px) — editorial, never small
+- H2 (section titles): clamp(36px, 5vw, 72px)
+- H3 (card titles): clamp(20px, 2.5vw, 28px)
+- Body: 16–18px, line-height 1.6–1.7
+- Apply fontFamily (heading font) only to h1, h2, h3, display text
+- Apply fontBody to all body text, labels, nav
+
+### Whitespace
+- sections[].sectionSpacing token is the minimum — never less
+- Card internal padding: min 32px
+- Never pack more than 4 featured items in a primary grid
+
+### Services section layout rule
+- featured: true items (max 4) → large cards, 2-col grid, 64px+ padding, hover state
+- featured: false items → compact secondary list or 3-col small cards, visually subordinate
+- Never render all services at equal visual weight
+
+### Hero rule
+- Always full viewport height (100svh)
+- Headline font-size: clamp(56px, 8vw, 120px)
+- One accent word in primaryColor
+- Subtitle: max 2 lines, textMuted color
+- Never center-align on desktop unless referenceUrl explicitly does it
+
+### Animation rule (GSAP ScrollTrigger required)
+- Every section: fade + translateY(40px → 0), staggered children, 0.8s ease-out
+- animationStyle token defines character — never ignore it
+- Always study theme.referenceUrl motion before writing any GSAP code
+- prefers-reduced-motion: wrap all GSAP in matchMedia check
+
+### Section visual weight hierarchy
+Every section must feel distinct. Alternate: dark bg → card bg → dark bg. Never two identical background treatments in a row.
+
+---
+
 ## Done means
 
 - All `sections[].enabled === true` sections render with correct data
